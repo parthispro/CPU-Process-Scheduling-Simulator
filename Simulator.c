@@ -12,6 +12,7 @@ struct Process {
     int waiting;
 };
 
+// main function
 int main() {
     struct Process p[MAX];
     int n;
